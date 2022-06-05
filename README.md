@@ -3,4 +3,7 @@ Humans naturally develop walking capability that is energy efficient, stable, en
 
 In this project, developed a LSTM model to classify the terrain based on time series data.
 
+The dataset can be found at [Dataset](https://github.com/pranavsv16/Terrain-Recognition-Using-Deep-Learning-Networks/blob/main/ECE542_sp2022_Project_TerrainRecognition-20220605T012231Z-001.zip])
+
 More information of this can be found at the [Report](https://github.com/pranavsv16/Terrain-Recognition-Using-Deep-Learning-Networks/blob/main/Final_Project_Report.pdf)
+
